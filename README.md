@@ -81,13 +81,6 @@ The app follows the MVVM (Model-View-ViewModel) architecture:
   - The ViewModel updates LiveData objects
   - The UI observes these LiveData objects and updates accordingly
 
-## Testing
-
-The project includes basic unit tests and instrumented tests. To run them:
-
-- **Unit Tests**: Right-click on the `test` directory and select "Run Tests"
-- **Instrumented Tests**: Right-click on the `androidTest` directory and select "Run Tests"
-
 ## Acknowledgments
 
 - [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
