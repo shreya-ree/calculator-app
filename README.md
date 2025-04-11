@@ -2,7 +2,16 @@
 
 A simple and elegant calculator application built with Jetpack Compose for Android.
 
-
+<table align="center">
+  <tr>
+    <td align="center"><b>Dark Mode</b></td>
+    <td align="center"><b>Light Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshot_dark_calc.jpg" alt="dark mode" width="250"/></td>
+    <td><img src="Screenshot_light_calc.jpg" alt="light mode" width="250"/></td>
+  </tr>
+</table>
 
 ## Features
 
